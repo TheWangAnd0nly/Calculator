@@ -229,7 +229,7 @@ public class Calculator {
         operator= null;
         Y = null;
     }
-
+//Hello it's me
     String removeZeroDecimal (double numDisplay){
         if (numDisplay % 1 == 0){
             return Integer.toString((int) numDisplay);
